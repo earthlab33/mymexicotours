@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "Betsy",
+    "imgUrl": "https://d1coydiqa46lxm.cloudfront.net/fp/mmt-next-fp-4.jpeg",
+    "websiteUrl": "/betsy"
+  },
+  {
+    "id": 1,
+    "name": "My Tours",
+    "imgUrl": "https://d1coydiqa46lxm.cloudfront.net/fp/mmt-next-fp-10.jpeg",
+    "websiteUrl": "/my-tours"
+  },
+  {
+    "id": 2,
+    "name": "Your Tours",
+    "imgUrl": "https://d1coydiqa46lxm.cloudfront.net/fp/mmt-next-fp-14.jpeg",
+    "websiteUrl": "/your-tours"
+  },
+  {
+    "id": 3,
+    "name": "Mexicocina",
+    "imgUrl": "https://d1coydiqa46lxm.cloudfront.net/fp/mmt-next-fp-17.jpeg",
+    "websiteUrl": "/mexicocina"
+  },
+  {
+    "id": 4,
+    "name": "What's New",
+    "imgUrl": "https://d1coydiqa46lxm.cloudfront.net/fp/mmt-next-fp-24.jpeg",
+    "websiteUrl": "/whats-new"
+  },
+  {
+    "id": 5,
+    "name": "Food",
+    "imgUrl": "https://d1coydiqa46lxm.cloudfront.net/fp/mmt-next-fp-30.jpeg",
+    "websiteUrl": "/food"
+  }
+]
