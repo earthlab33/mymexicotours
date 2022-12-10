@@ -5,6 +5,17 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import data from "../data/fpitems.json";
 
+export async function getStaticProps(data) {
+  // const data = await getAllBusinessProfiles();
+  const fpVars = JSON.stringify(data);
+
+  return {
+    props: {
+      fpVars,
+    },
+  };
+}
+
 export default function Home() {
   return (
     <div>
