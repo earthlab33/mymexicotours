@@ -7,13 +7,13 @@
   },
   {
     "id": 1,
-    "name": "My Tours",
+    "name": "My Mexico Tours",
     "imgUrl": "https://d1coydiqa46lxm.cloudfront.net/fp/mmt-next-fp-10.jpeg",
     "websiteUrl": "/my-tours"
   },
   {
     "id": 2,
-    "name": "Your Tours",
+    "name": "Your Mexico Tours",
     "imgUrl": "https://d1coydiqa46lxm.cloudfront.net/fp/mmt-next-fp-14.jpeg",
     "websiteUrl": "/your-tours"
   },
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "name": "What's New",
+    "name": "What I'm Up To",
     "imgUrl": "https://d1coydiqa46lxm.cloudfront.net/fp/mmt-next-fp-24.jpeg",
     "websiteUrl": "/whats-new"
   },

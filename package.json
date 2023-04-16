@@ -13,6 +13,7 @@
     "airtable": "^0.11.6",
     "flowbite": "^1.5.5",
     "flowbite-react": "^0.3.7",
+    "hamburger-react": "^2.5.0",
     "next": "^13.0.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
